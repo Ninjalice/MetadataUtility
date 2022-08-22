@@ -1,6 +1,6 @@
 # METADADTA UTILITY
 
-## IMPORTATN !!!
+## IMPORTANT !!!
 Create two folders "input" and "photos" in the main directory. Otherwise the program will not work.
 ## Purpose
 
